@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environments & secrets
+.env
+.venv/
+venv/
+env/
+
+# Model weights (too large for git; transfer separately — see TRAINING_PLAN.md)
+checkpoints/
+*.pt
+*.pth
+legacy/rl_discrete/checkpoints_rl/
+
+# Runtime output only.
+# NOTE: logs/llm_judge_collection/ and test_records/ are the judge records used to
+# train the reward proxy — they stay tracked on purpose.
+logs/llm_judge/
+reports/_log_*.txt
+visualizations/
+
+# Agent / editor local state
+.workbuddy-ai/
+.opencode/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

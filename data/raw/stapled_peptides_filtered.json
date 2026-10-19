@@ -1,0 +1,1035 @@
+﻿{
+    "GLFAVIKKVASVIKGL":  {
+                             "original_sequence":  "GLFAVIKKVASVIKGL",  // 抗癌肽
+                             "derivatives":  [
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GS5FAVS5KKVASVIKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp1",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 8.94 μM), A549 (IC50 = 12.48 μM), U87 (IC50 = 11.88 μM), MCF-7 (11.26 μM)",
+                                                     "dramp_id":  "DRAMP29007"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GLFAS5IKKS5ASVIKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp2",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 10.14 μM), A549 (IC50 = 12.55 μM), U87 (IC50 = 14.76 μM), MCF-7 (12.65 μM)",
+                                                     "dramp_id":  "DRAMP29008"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GLFAVS5KKVS5SVIKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp3",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 17.89 μM), A549 (IC50 = 12.11 μM), U87 (IC50 = 11.93 μM), MCF-7 (11.92 μM)",
+                                                     "dramp_id":  "DRAMP29009"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GLFAVIKKS5ASVS5KGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp4",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 8.90 μM), A549 (IC50 = 10.51 μM), U87 (IC50 = 7.277 μM), MCF-7 (10.49 μM)",
+                                                     "dramp_id":  "DRAMP29010"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GLFAVIKKVAS5VIKS5L",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp5",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 11.90 μM), A549 (IC50 = 9.899 μM), U87 (IC50 = 8.229 μM), MCF-7 (12.42 μM)",
+                                                     "dramp_id":  "DRAMP29011"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GR8FAVIKKR8ASVIKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp6",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 35.84 μM), A549 (IC50 = 30.19 μM), U87 (IC50 = 34.49 μM), MCF-7 (23.78 μM)",
+                                                     "dramp_id":  "DRAMP29012"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "No hemolytic activity information found.",
+                                                     "stapled_sequence":  "GLFAVR8KKVASVR8KGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp7",
+                                                     "mic":  "[Ref.33363118] Cancer cell lines: C4-2B (IC50 = 10.23 μM), A549 (IC50 = 16.37 μM), U87 (IC50 = 14.72 μM), MCF-7 (12.1 μM)",
+                                                     "dramp_id":  "DRAMP29013"
+                                                 }
+                                             ],
+                             "derivative_count":  7
+                         },
+    "IEEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNIT":  {
+                                                "original_sequence":  "IEEQAKTFLDKFNHEAEDLFYQSSLASWNYNTNIT",
+                                                "derivatives":  [
+                                                                    {
+                                                                        "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                        "stapled_sequence":  "IEEQAKTFLDKFNHEⓀEDLⒺYQSSLASWNYNTNIT",
+                                                                        "peptide_name":  "hACE2(21-55)A36K-F40E",
+                                                                        "mic":  "[Ref.33651072]Virus: SARS-CoV-2: inhibition of SARS-CoV-2 Spike protein-hACE2 complex formation(IC50=3.6 μM).",
+                                                                        "dramp_id":  "DRAMP29239"
+                                                                    },
+                                                                    {
+                                                                        "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                        "stapled_sequence":  "IEEQAKTFLDKⓀNHEⒺEDLFYQSSLASWNYNTNIT",
+                                                                        "peptide_name":  "hACE2(21-55)F32K-A36E",
+                                                                        "mic":  "[Ref.33651072]Virus: SARS-CoV-2: inhibition of SARS-CoV-2 Spike protein-hACE2 complex formation(IC50=28.4 μM).",
+                                                                        "dramp_id":  "DRAMP29240"
+                                                                    },
+                                                                    {
+                                                                        "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                        "stapled_sequence":  "IEEQAKTⓀLDKⒺNHEAEDLFYQSSLASWNYNTNIT",
+                                                                        "peptide_name":  "hACE2(21-55)F28K-F32E",
+                                                                        "mic":  "[Ref.33651072]Virus: SARS-CoV-2: inhibition of SARS-CoV-2 Spike protein-hACE2 complex formation(IC50=46.8 μM).",
+                                                                        "dramp_id":  "DRAMP29241"
+                                                                    }
+                                                                ],
+                                                "derivative_count":  3
+                                            },
+    "FIHHIIGGLFSAGKAIHRLIRRRRR":  {
+                                      "original_sequence":  "FIHHIIGGLFSAGKAIHRLIRRRRR",
+                                      "derivatives":  [
+                                                          {
+                                                              "hemolytic_activity":  "[Ref.36877022]It shows 15% hemolysis against human red blood cells at the concentration greater than 100 μM.",
+                                                              "stapled_sequence":  "FIIIKKSGGLFKKKAGAS5KKKS5IKK",
+                                                              "peptide_name":  "TP4-1",
+                                                              "mic":  "[Ref.36877022]Gram-positive bacteria: Staphylococcus aureus(MIC\u003e25 μM; MBC\u003e25 μM); Gram-negative bacteria: Acinetobacter baumannii(MIC\u003e25 μM; MBC\u003e25 μM).",
+                                                              "dramp_id":  "DRAMP29347"
+                                                          },
+                                                          {
+                                                              "hemolytic_activity":  "[Ref.36877022]It shows 15% hemolysis against human red blood cells at the concentration greater than 100 μM.",
+                                                              "stapled_sequence":  "FIIIKKSGGLS5KKKS5GAS5KKKS5IKK",
+                                                              "peptide_name":  "TP4-2",
+                                                              "mic":  "[Ref.36877022]Gram-positive bacteria: Staphylococcus aureus(MIC\u003e25 μM; MBC\u003e25 μM); Gram-negative bacteria: Acinetobacter baumannii(MIC=12.5 μM; MBC=12.5 μM).",
+                                                              "dramp_id":  "DRAMP29348"
+                                                          },
+                                                          {
+                                                              "hemolytic_activity":  "[Ref.36877022]It shows 15% hemolysis against human red blood cells at the concentration greater than 100 μM.",
+                                                              "stapled_sequence":  "FIIS5KKSS5GLFKKKAGAS5KKKS5IKK",
+                                                              "peptide_name":  "TP4-3",
+                                                              "mic":  "[Ref.36877022]Gram-positive bacteria: Staphylococcus aureus(MIC\u003e25 μM; MBC\u003e25 μM); Gram-negative bacteria: Acinetobacter baumannii(MIC=3.13 μM; MBC=3.13 μM).",
+                                                              "dramp_id":  "DRAMP29349"
+                                                          },
+                                                          {
+                                                              "hemolytic_activity":  "[Ref.36877022]It shows 15% hemolysis against human red blood cells at the concentration greater than 100 μM.",
+                                                              "stapled_sequence":  "FIIS5KKSS5GLS5KKKS5GAS5KKKS5IKK",
+                                                              "peptide_name":  "TP4-4",
+                                                              "mic":  "[Ref.36877022]Gram-positive bacteria: Staphylococcus aureus(MIC\u003e25 μM; MBC\u003e25 μM); Gram-negative bacteria: Acinetobacter baumannii(MIC=12.5 μM; MBC=12.5 μM).",
+                                                              "dramp_id":  "DRAMP29350"
+                                                          }
+                                                      ],
+                                      "derivative_count":  4
+                                  },
+    "WWVXAFAXRRR":  {
+                        "original_sequence":  "WWVXAFAXRRR",
+                        "derivatives":  [
+                                            {
+                                                "hemolytic_activity":  "[Ref.28073163] HC50 = 4.49 μM against human red blood cells. Note: HC50 is the half-maximal hemolytic concentration.",
+                                                "stapled_sequence":  "WWVS5AFAS5RRR",
+                                                "peptide_name":  "Cap-HSLP",
+                                                "mic":  "[Ref.28073163] Gram-positive bacteria: Bacillus megaterium ATCC 14581 (IC50 = 1.63 μM, MIC = 5.00 μM), Staphylococcus aureus ATCC 6538 (IC50 = 0.64 μM, MIC = 5.00 μM), Enterococcus faecalis ATCC 29212 (IC50 = 0.63 μM, MIC = 1.25 μM); Gram-negative bacteria: Escherichia coli ATCC 700926 (IC50 = 169 μM, MIC \u003e 20 μM); Fungi: Candida albicans 002 ATCC 64385 (IC50 \u003e 20 μM, MIC \u003e 20 μM), C. albicans 004 ATCC MYA-2876 (IC50 \u003e 20 μM, MIC \u003e 20 μM).",
+                                                "dramp_id":  "DRAMP21580"
+                                            },
+                                            {
+                                                "hemolytic_activity":  "[Ref.28073163] HC50 = 4.49 μM against human red blood cells. Note: HC50 is the half-maximal hemolytic concentration.",
+                                                "stapled_sequence":  "WWVS5AFAS5RRR",
+                                                "peptide_name":  "Cap-HSLP",
+                                                "mic":  "[Ref.28073163] Gram-positive bacteria: Bacillus megaterium ATCC 14581 (IC50 = 1.63 μM, MIC = 5.00 μM), Staphylococcus aureus ATCC 6538 (IC50 = 0.64 μM, MIC = 5.00 μM), Enterococcus faecalis ATCC 29212 (IC50 = 0.63 μM, MIC = 1.25 μM); Gram-negative bacteria: Escherichia coli ATCC 700926 (IC50 = 169 μM, MIC \u003e 20 μM); Fungi: Candida albicans 002 ATCC 64385 (IC50 \u003e 20 μM, MIC \u003e 20 μM), C. albicans 004 ATCC MYA-2876 (IC50 \u003e 20 μM, MIC \u003e 20 μM).",
+                                                "dramp_id":  "DRAMP21580"
+                                            }
+                                        ],
+                        "derivative_count":  2
+                    },
+    "PKILNKILGKILRLAAAFK":  {
+                                "original_sequence":  "PKILNKILGKILRLAAAFK",
+                                "derivatives":  [
+                                                    {
+                                                        "hemolytic_activity":  "[Ref.34968054]MHC=16 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                        "stapled_sequence":  "PKILNⓀILGⓀILRLAAAFK",
+                                                        "peptide_name":  "LS-PaDBS1R1-1",
+                                                        "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=2 μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=4 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=16 μg/mL), E. coli(MIC=4 μg/mL), Cephalosporin-resistant E. coli(MIC=8 μg/mL).",
+                                                        "dramp_id":  "DRAMP29339"
+                                                    },
+                                                    {
+                                                        "hemolytic_activity":  "[Ref.34968054]MHC=16 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                        "stapled_sequence":  "PⓀILNⓀILGKILRLAAAFK",
+                                                        "peptide_name":  "LS-PaDBS1R1-2",
+                                                        "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=4 μg/mL), Staphylococcus aureus BNCC 186335(MIC=4 μg/mL),  Staphylococcus aureus(MRSA)(MIC=4 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=128 μg/mL), E. coli(MIC=16 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                        "dramp_id":  "DRAMP29340"
+                                                    }
+                                                ],
+                                "derivative_count":  2
+                            },
+    "GLFAVCKKVASVCKG":  {
+                            "original_sequence":  "GLFAVCKKVASVCKG",
+                            "derivatives":  [
+                                                {
+                                                    "hemolytic_activity":  "Not available",
+                                                    "stapled_sequence":  "GLFAVⓍKKVASVⓍKGL",
+                                                    "peptide_name":  "AC-CCSP-5-Dp",
+                                                    "mic":  "Tumor cells: MCF-7  (IC50=12.1 μM); U87 (IC50=14.72 μM); A549 (IC50=16.37 μM); C4-2B (IC50=35.84 μM)",
+                                                    "dramp_id":  "DRAMP34558"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "Not available",
+                                                    "stapled_sequence":  "GLFAVⓍKKVASVⓍKGL",
+                                                    "peptide_name":  "AC-CCSP-5-Dp",
+                                                    "mic":  "Tumor cells: HCT 116 (IC50=7.44µM); MCF-7 (IC50=7.47µM); U-87MG ATCC (IC50=9.2µM)",
+                                                    "dramp_id":  "DRAMP34559"
+                                                }
+                                            ],
+                            "derivative_count":  2
+                        },
+    "VKRFKKFFRKFKKFV":  {
+                            "original_sequence":  "VKRFKKFFRKFKKFV",
+                            "derivatives":  [
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC\u003e128 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VKRFKⓀFFRⓀFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-1",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=4μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=2 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=16 μg/mL), E. coli(MIC=2 μg/mL), Cephalosporin-resistant E. coli(MIC=8 μg/mL).",
+                                                    "dramp_id":  "DRAMP29341"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC\u003e128 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VⓀRFKⓀFFRKFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-2",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=16μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=4 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=8 μg/mL), E. coli(MIC=4 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                    "dramp_id":  "DRAMP29342"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC=32 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VKRFKⓀFFRⓀFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-3",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=4μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=4 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=8 μg/mL), E. coli(MIC=4 μg/mL), Cephalosporin-resistant E. coli(MIC=8 μg/mL).",
+                                                    "dramp_id":  "DRAMP29343"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC\u003e128 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VⓀRFKⓀFFRKFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-4",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=16 μg/mL), Staphylococcus aureus BNCC 186335(MIC=4 μg/mL),  Staphylococcus aureus(MRSA)(MIC=8 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=16 μg/mL), E. coli(MIC=8 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                    "dramp_id":  "DRAMP29344"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC\u003e128 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VKRFKⓀFFRⓀFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-5",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=2 μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=4 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=16 μg/mL), E. coli(MIC=2 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                    "dramp_id":  "DRAMP29345"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.34968054]MHC\u003e128 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                    "stapled_sequence":  "VⓀRFKⓀFFRKFKKFV",
+                                                    "peptide_name":  "LS-Cathelicidin-BF-15-a1-6",
+                                                    "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=8μg/mL), Staphylococcus aureus BNCC 186335(MIC=4 μg/mL),  Staphylococcus aureus(MRSA)(MIC=8 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=16 μg/mL), E. coli(MIC=4 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                    "dramp_id":  "DRAMP29346"
+                                                }
+                                            ],
+                            "derivative_count":  6
+                        },
+    "TSFSEYWSLLSXLAXYXP":  {
+                               "original_sequence":  "TSFSEYWSLLSXLAXYXP",
+                               "derivatives":  [
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=82.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35884"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=85.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35885"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=57.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35886"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=82.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35887"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=85.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35888"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=57.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35889"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=82.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35890"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=85.1 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35891"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWⓍLLSXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF1-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=57.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35892"
+                                                   }
+                                               ],
+                               "derivative_count":  9
+                           },
+    "VNWKKILGKIIKVVK":  {
+                            "original_sequence":  "VNWKKILGKIIKVVK",
+                            "derivatives":  [
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 = 31.3 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNWKKS5LGKS5IKVVK",
+                                                    "peptide_name":  "LL-IIIs-1",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 0.7 μM), Bacillus subtilis (MIC = 0.8 μM), Staphylococcus aureus (MIC = 12.5 μM); Gram-negative bacteria: E.coli (MIC = 4.4 μM), Pseudomonas aeruginosa (MIC = 78.7 μM); Fungi: Candida albicans (MIC = 100 μM).",
+                                                    "dramp_id":  "DRAMP21486"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 = 69 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNWKKILGKS5IKVS5K",
+                                                    "peptide_name":  "LL-IIIs-2",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 0.9 μM), Bacillus subtilis (MIC = 1.2 μM), Staphylococcus aureus (MIC = 20.3 μM); Gram-negative bacteria: E.coli (MIC = 8.8 μM), Pseudomonas aeruginosa (MIC = 86.7 μM); Fungi: Candida albicans (MIC = 100 μM).",
+                                                    "dramp_id":  "DRAMP21487"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 = 30 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VS5WKKS5LGKIIKVVK",
+                                                    "peptide_name":  "LL-IIIs-3",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.4 μM), Bacillus subtilis (MIC = 1.1 μM), Staphylococcus aureus (MIC = 21.7 μM); Gram-negative bacteria: E.coli (MIC = 1.2 μM), Pseudomonas aeruginosa (MIC = 76.3 μM); Fungi: Candida albicans (MIC = 93.3 μM).",
+                                                    "dramp_id":  "DRAMP21488"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 \u003e 100 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNS5KKIS5GKS5IKVS5K",
+                                                    "peptide_name":  "LL-IIIs-4",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 2 μM), Bacillus subtilis (MIC = 1.1 μM), Staphylococcus aureus (MIC = 80 μM); Gram-negative bacteria: E.coli (MIC = 20 μM), Pseudomonas aeruginosa (MIC \u003e 100 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                    "dramp_id":  "DRAMP21489"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 = 100 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNR8KKILGKR8IKVVK",
+                                                    "peptide_name":  "LL-IIIs-5 cis",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 0.9 μM), Bacillus subtilis (MIC = 0.9 μM), Staphylococcus aureus (MIC = 45 μM); Gram-negative bacteria: E.coli (MIC = 3.5 μM), Pseudomonas aeruginosa (MIC = 80 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                    "dramp_id":  "DRAMP21490"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 \u003e 100 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNR8KKILGKR8IKVVK",
+                                                    "peptide_name":  "LL-IIIs-5 trans",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.1 μM), Bacillus subtilis (MIC = 1.3 μM), Staphylococcus aureus (MIC = 65 μM); Gram-negative bacteria: E.coli (MIC = 5.5 μM), Pseudomonas aeruginosa (MIC = 80 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                    "dramp_id":  "DRAMP21491"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 \u003e 100 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNS5KKIS5PKS5IKVS5K",
+                                                    "peptide_name":  "LL-IIIs-6a",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1 μM), Bacillus subtilis (MIC = 1.1 μM), Staphylococcus aureus (MIC = 93 μM); Gram-negative bacteria: E.coli (MIC = 7.8 μM), Pseudomonas aeruginosa (MIC = 93 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                    "dramp_id":  "DRAMP21492"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.22526241] LC50 = 82μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                    "stapled_sequence":  "VNS5KKIS5PKS5IKVS5K",
+                                                    "peptide_name":  "LL-IIIs-6b",
+                                                    "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 0.9 μM), Bacillus subtilis (MIC = 0.8 μM), Staphylococcus aureus (MIC = 50 μM); Gram-negative bacteria: E.coli (MIC = 7.8 μM), Pseudomonas aeruginosa (MIC = 63 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                    "dramp_id":  "DRAMP21493"
+                                                }
+                                            ],
+                            "derivative_count":  8
+                        },
+    "GLFAVRKKVASVSKGL":  {
+                             "original_sequence":  "GLFAVRKKVASVSKGL",
+                             "derivatives":  [
+                                                 {
+                                                     "hemolytic_activity":  "Not available",
+                                                     "stapled_sequence":  "GLFAVⓍKKVASVⓍKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp7",
+                                                     "mic":  "Tumor cells: MCF-7  (IC50=12.1 μM); U87 (IC50=14.72 μM); A549 (IC50=16.37 μM); C4-2B (IC50=35.84 μM)",
+                                                     "dramp_id":  "DRAMP35750"
+                                                 },
+                                                 {
+                                                     "hemolytic_activity":  "Not available",
+                                                     "stapled_sequence":  "GLFAVⓍKKVASVⓍKGL",
+                                                     "peptide_name":  "A4K14-citropin1.1-Sp7",
+                                                     "mic":  "Tumor cells: HCT 116 (IC50=7.44µM); MCF-7 (IC50=7.47µM); U-87MG ATCC (IC50=9.2µM)",
+                                                     "dramp_id":  "DRAMP35751"
+                                                 }
+                                             ],
+                             "derivative_count":  2
+                         },
+    "IKLSPETKDNLKKVLKGAIKGAIAVAKMV":  {
+                                          "original_sequence":  "IKLSPETKDNLKKVLKGAIKGAIAVAKMV",
+                                          "derivatives":  [
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSPS5TKDS5LKKVLKGAIKGAIAVAKMV",
+                                                                  "peptide_name":  "H-2",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 4.26 ± 0.52 μM), HCT116 (IC50 = 3.54 ± 0.72 μM), HepG2 (IC50 = 1.60 ± 0.24 μM)",
+                                                                  "dramp_id":  "DRAMP29015"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSPETKDNLKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-5",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 7.35 ± 0.22 μM), HCT116 (IC50 = 4.16 ± 0.21 μM), HepG2 (IC50 = 2.82 ± 0.23 μM)",
+                                                                  "dramp_id":  "DRAMP29016"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSPS5TKDS5LKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-10",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 3.59 ± 0.12 μM), HCT116 (IC50 = 3.51 ± 0.37 μM), HepG2 (IC50 = 1.50 ± 0.21 μM)",
+                                                                  "dramp_id":  "DRAMP29017"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSKS5TKDS5LKKVLKGAIKGAIAVAKMV",
+                                                                  "peptide_name":  "H-15",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 2.26 ± 0.24 μM), HCT116 (IC50 = 2.95 ± 0.25 μM), HepG2 (IC50 = 2.20 ± 0.27 μM)",
+                                                                  "dramp_id":  "DRAMP29019"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSPS5TKKS5LKKVLKGAIKGAIAVAKMV",
+                                                                  "peptide_name":  "H-16",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 1.85 ± 0.31 μM), HCT116 (IC50 = 2.65 ± 0.35 μM), HepG2 (IC50 = 3.14 ± 0.46 μM)",
+                                                                  "dramp_id":  "DRAMP29020"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSKS5TKKS5LKKVLKGAIKGAIAVAKMV",
+                                                                  "peptide_name":  "H-17",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 0.96 ± 0.33 μM), HCT116 (IC50 = 1.49 ± 0.45 μM), HepG2 (IC50 = 1.64 ± 0.47 μM)",
+                                                                  "dramp_id":  "DRAMP29021"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "[Ref.30789695] It has -1.5%, 3.8%, 12.8%, 18.2%, 13.8%, 30.2%, 65.2%, 90.8% and 83.5% hemolysis against fresh rabbit blood cells at 0.010, 0.25, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0 and 25.0 μM.",
+                                                                  "stapled_sequence":  "IKLSKKTKKNLKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-18",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 0.89 ± 0.21 μM), HCT116 (IC50 = 1.11 ± 0.21 μM), HepG2 (IC50 = 1.61 ± 0.21 μM)",
+                                                                  "dramp_id":  "DRAMP29022"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "[Ref.30789695] It has 1.8%, 11.5%, 22.2%, 20.5%, 16.2%, 39.5%, 69.2%, 94.8% and 102.5% hemolysis against fresh rabbit blood cells at 0.010, 0.25, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0 and 25.0 μM.",
+                                                                  "stapled_sequence":  "IKLSKETKKNLKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-19",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 1.00 ± 0.36 μM), HCT116 (IC50 = 1.78 ± 0.35 μM), HepG2 (IC50 = 1.64 ± 0.36 μM)",
+                                                                  "dramp_id":  "DRAMP29023"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSPS5TKKS5LKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-20",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 2.10 ± 0.32 μM), HCT116 (IC50 = 2.63 ± 0.35 μM), HepG2 (IC50 = 4.93 ± 0.53 μM)",
+                                                                  "dramp_id":  "DRAMP29024"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                  "stapled_sequence":  "IKLSKS5TKKS5LKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-21",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 3.26 ± 0.36 μM), HCT116 (IC50 = 3.05 ± 0.21 μM), HepG2 (IC50 = 1.50 ± 0.28 μM)",
+                                                                  "dramp_id":  "DRAMP29025"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "[Ref.30789695] It has -1.2%, 1.8%, 2.8%, 5.5%, 14.5%, 25.8%, 42.8%, 68.8% and 58.2% hemolysis against fresh rabbit blood cells at 0.010, 0.25, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0 and 25.0 μM.",
+                                                                  "stapled_sequence":  "IKLSKETKKNLKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-57",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 1.10 ± 0.31 μM), HCT116 (IC50 = 1.65 ± 0.28 μM), HepG2 (IC50 = 2.71 ± 0.05 μM)",
+                                                                  "dramp_id":  "DRAMP29026"
+                                                              },
+                                                              {
+                                                                  "hemolytic_activity":  "[Ref.30789695] It has 0.8%, -0.5%, 0.8%, 8.8%, 13.2%, 20.8%, 37.8%, 61.8% and 54.5% hemolysis against fresh rabbit blood cells at 0.010, 0.25, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0 and 25.0 μM.",
+                                                                  "stapled_sequence":  "IKLSKKTKKNLKKVLKGS5IKGS5IAVAKMV",
+                                                                  "peptide_name":  "H-58",
+                                                                  "mic":  "[Ref.30789695] Cancer cell lines: A549 (IC50 = 0.62 ± 0.12 μM), HCT116 (IC50 = 1.29 ± 0.08 μM), HepG2 (IC50 = 2.13 ± 0.07 μM)",
+                                                                  "dramp_id":  "DRAMP29027"
+                                                              }
+                                                          ],
+                                          "derivative_count":  12
+                                      },
+    "KLLKKAGKLLKKAGKLLKKAG":  {
+                                  "original_sequence":  "KLLKKAGKLLKKAGKLLKKAG",
+                                  "derivatives":  [
+                                                      {
+                                                          "hemolytic_activity":  "[Ref.33369262] It exhibits hemolysis at 0.78 μM agasint human red blood cells.",
+                                                          "stapled_sequence":  "KLLKKAGKLLKKR8GKLLKKR8G",
+                                                          "peptide_name":  "Stripe-based foldamer peptide 4",
+                                                          "mic":  "[Ref.33369262] Gram-positive bacteria: Staphylococcus aureus NBRC13276 (MIC = 25 μM) ; Gram-negative bacteria: Escherichia coli DH5α (MIC = 6.25 μM), Pseudomonas aeruginosa NBRC13275 (MIC = 50 μM), multidrug-resistant Pseudomonas aeruginosa ATCCBAA-2111 (MDRP) (MIC = 25 μM)",
+                                                          "dramp_id":  "DRAMP29032"
+                                                      },
+                                                      {
+                                                          "hemolytic_activity":  "[Ref.33369262] It exhibits hemolysis at 1.56 μM agasint human red blood cells.",
+                                                          "stapled_sequence":  "KLLKKR8GKLLKKR8GKLLKKAG",
+                                                          "peptide_name":  "Stripe-based foldamer peptide 5",
+                                                          "mic":  "[Ref.33369262] Gram-positive bacteria: Staphylococcus aureus NBRC13276 (MIC = 25 μM) ; Gram-negative bacteria: Escherichia coli DH5α (MIC = 6.25 μM), Pseudomonas aeruginosa NBRC13275 (MIC = 12.5 μM), multidrug-resistant Pseudomonas aeruginosa ATCCBAA-2111 (MDRP) (MIC = 25 μM)",
+                                                          "dramp_id":  "DRAMP29033"
+                                                      }
+                                                  ],
+                                  "derivative_count":  2
+                              },
+    "GFKDLLKGAAKALVKTVLF":  {
+                                "original_sequence":  "GFKDLLKGAAKALVKTVLF",
+                                "derivatives":  [
+                                                    {
+                                                        "hemolytic_activity":  "[Ref.34968054]MHC=32 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                        "stapled_sequence":  "GFKDLLKGAAⓀALVⓀTVLF",
+                                                        "peptide_name":  "LS-Ascaphin-8 P1",
+                                                        "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=4 μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=8 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=128 μg/mL), E. coli(MIC=8 μg/mL), Cephalosporin-resistant E. coli(MIC=16 μg/mL).",
+                                                        "dramp_id":  "DRAMP29335"
+                                                    },
+                                                    {
+                                                        "hemolytic_activity":  "[Ref.34968054]MHC=32 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                        "stapled_sequence":  "GFKDLLⓀGAAⓀALVKTVLF",
+                                                        "peptide_name":  "LS-Ascaphin-8 P2",
+                                                        "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=8μg/mL), Staphylococcus aureus BNCC 186335(MIC=2 μg/mL),  Staphylococcus aureus(MRSA)(MIC=8 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=32 μg/mL), E. coli(MIC=16 μg/mL), Cephalosporin-resistant E. coli(MIC=32 μg/mL).",
+                                                        "dramp_id":  "DRAMP29336"
+                                                    },
+                                                    {
+                                                        "hemolytic_activity":  "[Ref.34968054]MHC=32 μg/mL. The MHC is the minimum peptide concentration that caused 10% hemolysis of hRBCs.",
+                                                        "stapled_sequence":  "GFⓀDLLⓀGAAKALVKTVLF",
+                                                        "peptide_name":  "LS-Ascaphin-8 P3",
+                                                        "mic":  "[Ref.34968054]Gram-positive bacteria: Listeria monocytogenes(MIC=16 μg/mL), Staphylococcus aureus BNCC 186335(MIC=4 μg/mL),  Staphylococcus aureus(MRSA)(MIC=16 μg/mL) ; Gram-negative bacteria: P. aeruginosa(MIC=128 μg/mL), E. coli(MIC=16 μg/mL), Cephalosporin-resistant E. coli(MIC=32 μg/mL).",
+                                                        "dramp_id":  "DRAMP29337"
+                                                    }
+                                                ],
+                                "derivative_count":  3
+                            },
+    "ELAAIRHR":  {
+                     "original_sequence":  "ELAAIRHR",
+                     "derivatives":  [
+                                         {
+                                             "hemolytic_activity":  "[Ref.32840352] No hemolytic activity information found.",
+                                             "stapled_sequence":  "S5LAAS5RHS5",
+                                             "peptide_name":  "V30-SP-8",
+                                             "mic":  "[Ref.32840352] Gram-positive bacteria: Mycobacterium smegmatis (The antibacterial effects of V30-SP-8 are 36.9%, 42.7%, 50.9% and 55.4% at 6.25, 12.5, 25 and 50 μM, and MIC50 is between 12.5 μM and 25.0 μM)",
+                                             "dramp_id":  "DRAMP21624"
+                                         },
+                                         {
+                                             "hemolytic_activity":  "[Ref.32840352] No hemolytic activity information found.",
+                                             "stapled_sequence":  "R8LAAIRHR8",
+                                             "peptide_name":  "V30-SP-9",
+                                             "mic":  "[Ref.32840352] Gram-positive bacteria: Mycobacterium smegmatis (The antibacterial effects of V30-SP-8 are 23.3%, 23.3%, 34.2% and 38.7% at 6.25, 12.5, 25 and 50 μM, and MIC50 is above 25 μM)",
+                                             "dramp_id":  "DRAMP21625"
+                                         }
+                                     ],
+                     "derivative_count":  2
+                 },
+    "WWVXARAXRR":  {
+                       "original_sequence":  "WWVXARAXRR",
+                       "derivatives":  [
+                                           {
+                                               "hemolytic_activity":  "[Ref.28073163] HC50 = 14.5 μM against human red blood cells. Note: HC50 is the half-maximal hemolytic concentration.",
+                                               "stapled_sequence":  "WWVS5ARAS5RR",
+                                               "peptide_name":  "Val-HSLP",
+                                               "mic":  "[Ref.28073163] Gram-positive bacteria: Bacillus megaterium ATCC 14581 (IC50 = 0.69 μM, MIC = 5.00 μM), Staphylococcus aureus ATCC 6538 (IC50 = 0.63 μM, MIC = 5.00 μM), Enterococcus faecalis ATCC 29212 (IC50 = 0.65 μM, MIC = 5.00 μM); Gram-negative bacteria: Escherichia coli ATCC 700926 (IC50 = 14.8 μM, MIC \u003e 20 μM); Fungi: Candida albicans 002 ATCC 64385 (IC50 \u003e 20 μM, MIC \u003e 20 μM), C. albicans 004 ATCC MYA-2876 (IC50 \u003e 20 μM, MIC \u003e 20 μM).",
+                                               "dramp_id":  "DRAMP21578"
+                                           },
+                                           {
+                                               "hemolytic_activity":  "[Ref.28073163] HC50 = 14.5 μM against human red blood cells. Note: HC50 is the half-maximal hemolytic concentration.",
+                                               "stapled_sequence":  "WWVS5ARAS5RR",
+                                               "peptide_name":  "Val-HSLP",
+                                               "mic":  "[Ref.28073163] Gram-positive bacteria: Bacillus megaterium ATCC 14581 (IC50 = 0.69 μM, MIC = 5.00 μM), Staphylococcus aureus ATCC 6538 (IC50 = 0.63 μM, MIC = 5.00 μM), Enterococcus faecalis ATCC 29212 (IC50 = 0.65 μM, MIC = 5.00 μM); Gram-negative bacteria: Escherichia coli ATCC 700926 (IC50 = 14.8 μM, MIC \u003e 20 μM); Fungi: Candida albicans 002 ATCC 64385 (IC50 \u003e 20 μM, MIC \u003e 20 μM), C. albicans 004 ATCC MYA-2876 (IC50 \u003e 20 μM, MIC \u003e 20 μM).",
+                                               "dramp_id":  "DRAMP21578"
+                                           }
+                                       ],
+                       "derivative_count":  2
+                   },
+    "GLFDIIKKIAESF":  {
+                          "original_sequence":  "GLFDIIKKIAESF",
+                          "derivatives":  [
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "S5LFDS5IKKIAESF",
+                                                  "peptide_name":  "SAU-1",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC=32 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC=128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29351"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GS5FDIS5KKIAESF",
+                                                  "peptide_name":  "SAU-2",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC=16 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC=128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29352"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLS5DIIS5KIAESF",
+                                                  "peptide_name":  "SAU-3",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29353"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFS5IIKS5IAESF",
+                                                  "peptide_name":  "SAU-4",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29354"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFDS5IKKS5AESF",
+                                                  "peptide_name":  "SAU-5",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC=16 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC=16 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29355"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFDIS5KKIS5ESF",
+                                                  "peptide_name":  "SAU-6",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29356"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFDIIS5KIAS5SF",
+                                                  "peptide_name":  "SAU-7",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29357"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFDIIKS5IAES5F",
+                                                  "peptide_name":  "SAU-8",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC\u003e128 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29358"
+                                              },
+                                              {
+                                                  "hemolytic_activity":  "No hemolytic activity information found.",
+                                                  "stapled_sequence":  "GLFDIIKKS5AESS5",
+                                                  "peptide_name":  "SAU-9",
+                                                  "mic":  "[Ref.34439006]Fungi: C. albicans SC5314(MIC\u003e64 μg/mL), C. albicans 901(MIC\u003e128 μg/mL),  C. albicans 904(MIC\u003e128 μg/mL), C. tropicalis ATCC 20026 (MIC\u003e128 μg/mL),  C. tropicalis 895 (MIC=32 μg/mL),  C. glabrata ATCC 1182 (MIC\u003e128 μg/mL),  C. glabrata 896 (MIC\u003e128 μg/mL),  C. auris 918 (MIC\u003e128 μg/mL),  C. auris 919 (MIC\u003e128 μg/mL),  C. krusei ATCC 2340 (MIC\u003e128 μg/mL),  C. parapsilosis ATCC 22010(MIC\u003e128 μg/mL).",
+                                                  "dramp_id":  "DRAMP29359"
+                                              }
+                                          ],
+                          "derivative_count":  9
+                      },
+    "TIEEQAKTFLDKFNHEAEDLFYQSSLASWN":  {
+                                           "original_sequence":  "TIEEQAKTFLDKFNHEAEDLFYQSSLASWN",
+                                           "derivatives":  [
+                                                               {
+                                                                   "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                   "stapled_sequence":  "TIEEQAKTS5LDKS5NHEAEDLFYQS5SLAS5WN",
+                                                                   "peptide_name":  "NYBSP-1",
+                                                                   "mic":  "[Ref.33310780]Virus: SARS-CoV-2: Inhibition of infection in HT1080/ACE2 cells(IC50=4.1 ± 0.26 μM);Inhibition of infection in A549/ACE2 cells(IC50=2.2 ± 0.14 μM);Inhibition of virus-induced cytopathic effect (CPE) in Vero E6 cells(IC100=17.2 μM); VSV-G: Inhibition of infection in HT1080/ACE2 cells(IC50\u003e27.5 μM);Inhibition of infection in A549/ACE2 cells(IC50\u003e27.5 μM).",
+                                                                   "dramp_id":  "DRAMP29235"
+                                                               },
+                                                               {
+                                                                   "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                   "stapled_sequence":  "TIEEQR8KTFLDKR8NHEAEDLR8YQSSLAR8WN",
+                                                                   "peptide_name":  "NYBSP-2",
+                                                                   "mic":  "[Ref.33310780]Virus: SARS-CoV-2: Inhibition of infection in HT1080/ACE2 cells(IC50=2.9 ± 0.27 μM);Inhibition of infection in A549/ACE2 cells(IC50=2.68 ± 0.14 μM);Inhibition of virus-induced cytopathic effect (CPE) in Vero E6 cells(IC100=33.5 μM); VSV-G: Inhibition of infection in HT1080/ACE2 cells(IC50\u003e26.8 μM);Inhibition of infection in A549/ACE2 cells(IC50\u003e26.8 μM).",
+                                                                   "dramp_id":  "DRAMP29236"
+                                                               },
+                                                               {
+                                                                   "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                   "stapled_sequence":  "TIEEQAKTR8LDKR8NHEAEDLR8YQSSLAR8WN",
+                                                                   "peptide_name":  "NYBSP-3",
+                                                                   "mic":  "[Ref.33310780]Virus: SARS-CoV-2: Inhibition of infection in HT1080/ACE2 cells(IC50=12.9 ± 0.35 μM);Inhibition of infection in A549/ACE2 cells(IC50~25 μM); VSV-G: Inhibition of infection in HT1080/ACE2 cells(IC50\u003e27.6 μM);Inhibition of infection in A549/ACE2 cells(IC50\u003e27.6 μM).",
+                                                                   "dramp_id":  "DRAMP29237"
+                                                               },
+                                                               {
+                                                                   "hemolytic_activity":  "No hemolytic activity information found.",
+                                                                   "stapled_sequence":  "TIEEQR8KTFLDKR8NHEAEDLFYQR8SLAR8WN",
+                                                                   "peptide_name":  "NYBSP-4",
+                                                                   "mic":  "[Ref.33310780]Virus: SARS-CoV-2: Inhibition of infection in HT1080/ACE2 cells(IC50=1.97 ± 0.14 μM);Inhibition of infection in A549/ACE2 cells(IC50=2.8 ± 0.08 μM);Inhibition of virus-induced cytopathic effect (CPE) in Vero E6 cells(IC100=33 μM); VSV-G: Inhibition of infection in HT1080/ACE2 cells(IC50\u003e26.6 μM);Inhibition of infection in A549/ACE2 cells(IC50\u003e26.6 μM).",
+                                                                   "dramp_id":  "DRAMP29238"
+                                                               }
+                                                           ],
+                                           "derivative_count":  4
+                                       },
+    "IDWKKLLDAAKQIL":  {
+                           "original_sequence":  "IDWKKLLDAAKQIL",
+                           "derivatives":  [
+                                               {
+                                                   "hemolytic_activity":  "[Ref.28833783] It has 0%, 0%, 2.1%, 9.5%, 22.7%, 25.4% and 34.7% against human red blood cells at peptide concentrations of 0, 5, 10, 25, 50, 75 and 150 μM.",
+                                                   "stapled_sequence":  "IDWKKLLS5AAKS5IL",
+                                                   "peptide_name":  "C-MP1-1",
+                                                   "mic":  "[Ref.28833783] Gram-positive bacteria: Staphyolococcus aureus ATCC 25923 (MIC = 64 μM), Bacillus subtilis ATCC 23857 (MIC = 8 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 64 μM), Pseudomonas aeruginosa ATCC 27853 (No antimicrobial activity)",
+                                                   "dramp_id":  "DRAMP21502"
+                                               },
+                                               {
+                                                   "hemolytic_activity":  "[Ref.28833783] No hemolytic information found.",
+                                                   "stapled_sequence":  "IS5WKKLLS5AAKQIL",
+                                                   "peptide_name":  "C-MP1-2",
+                                                   "mic":  "[Ref.28833783] Gram-positive bacteria: Staphyolococcus aureus ATCC 25923 (MIC = 256 μM), Bacillus subtilis ATCC 23857 (MIC = 128 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 128 μM), Pseudomonas aeruginosa ATCC 27853 (No antimicrobial activity)",
+                                                   "dramp_id":  "DRAMP21503"
+                                               },
+                                               {
+                                                   "hemolytic_activity":  "[Ref.29075946] It has 6.7% hemolysis against human red blood cells at 12.5 μM and 12.3% hemolysis at 25 μM.",
+                                                   "stapled_sequence":  "IDWKKS5LDAS5KQIL",
+                                                   "peptide_name":  "MP1S",
+                                                   "mic":  "[Ref.29075946] Gram-positive bacteria: Bacillus subtilis (MIC = 1.6 μg/mL), Staphylococcus aureus (MIC = 2.4 μg/mL), Staphylococcus epidermidis (MIC \u003e 100 μg/mL); Gram-negative bacteria: Escherichia coli (MIC \u003e 100 μg/mL), Shigella dysenteriae (MIC \u003e 100 μg/mL), Salmonella typhimurium (MIC \u003e 100 μg/mL), Klebsiella pneumoniae (MIC \u003e 100 μg/mL), Pseudomonas aeruginosa (MIC \u003e 100 μg/mL)",
+                                                   "dramp_id":  "DRAMP21566"
+                                               },
+                                               {
+                                                   "hemolytic_activity":  "[Ref.29075946] It has 16.3% hemolysis against human red blood cells at 12.5 μM and 37.8% hemolysis at 25 μM.",
+                                                   "stapled_sequence":  "IDWKKS5LNAS5KQIL",
+                                                   "peptide_name":  "MP1S-D8N",
+                                                   "mic":  "[Ref.29075946] Gram-positive bacteria: Bacillus subtilis (MIC = 0.8 μg/mL), Staphylococcus aureus (MIC = 0.8 μg/mL), Staphylococcus epidermidis (MIC = 37.5 μg/mL); Gram-negative bacteria: Escherichia coli (MIC = 50 μg/mL), Shigella dysenteriae (MIC = 100 μg/mL), Salmonella typhimurium (MIC \u003e 100 μg/mL), Klebsiella pneumoniae (MIC = 37.5 μg/mL), Pseudomonas aeruginosa (MIC ≥ 100 μg/mL)",
+                                                   "dramp_id":  "DRAMP21567"
+                                               },
+                                               {
+                                                   "hemolytic_activity":  "[Ref.29075946] It has 9.6% hemolysis against human red blood cells at 12.5 μM and 13.9% hemolysis at 25 μM.",
+                                                   "stapled_sequence":  "IDWKKS5LDAS5KKIL",
+                                                   "peptide_name":  "MP1S-Q12K",
+                                                   "mic":  "[Ref.29075946] Gram-positive bacteria: Bacillus subtilis (MIC = 0.8 μg/mL), Staphylococcus aureus (MIC = 1.2 μg/mL), Staphylococcus epidermidis (MIC = 50 μg/mL); Gram-negative bacteria: Escherichia coli (MIC \u003e100  μg/mL), Shigella dysenteriae (MIC \u003e 100 μg/mL), Salmonella typhimurium (MIC \u003e 100 μg/mL), Klebsiella pneumoniae (MIC \u003e 100 μg/mL), Pseudomonas aeruginosa (MIC \u003e 100 μg/mL)",
+                                                   "dramp_id":  "DRAMP21568"
+                                               }
+                                           ],
+                           "derivative_count":  5
+                       },
+    "TLKQFAKGVGKWLVK":  {
+                            "original_sequence":  "TLKQFAKGVGKWLVK",
+                            "derivatives":  [
+                                                {
+                                                    "hemolytic_activity":  "[Ref.24211019] No hemolytic activity information found.",
+                                                    "stapled_sequence":  "TLKQFS5KGVS5KWLVK",
+                                                    "peptide_name":  "E2EM15W-S1",
+                                                    "mic":  "[Ref.24211019] Gram-positive bacteria: Bacillus subtilis (MIC = 3.13 μg/mL), Staphylococcus aureus (MIC = 3.13 μg/mL), Staphylococcus epidermis (MIC \u003e 200 μg/mL); Gram-negative bacteria: Escherichia coli (MIC \u003e 200 μg/mL), Shigella dysentariae (MIC \u003e 200 μg/mL), Salmonella typhimurium (MIC \u003e 200 μg/mL), Klebsiella pneumonia (MIC \u003e 200 μg/mL), Proteus mirabilis (MIC \u003e 200 μg/mL), Pseudomonas aeuginose (MIC \u003e 200 μg/mL).",
+                                                    "dramp_id":  "DRAMP21628"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.24211019] No hemolytic activity information found.",
+                                                    "stapled_sequence":  "TLKQFS5KGWS5KDLVK",
+                                                    "peptide_name":  "E2EM15W-S2",
+                                                    "mic":  "[Ref.24211019] Gram-positive bacteria: Bacillus subtilis (MIC = 6.25 μg/mL), Staphylococcus aureus (MIC = 6.25 μg/mL), Staphylococcus epidermis (MIC \u003e 200 μg/mL); Gram-negative bacteria: Escherichia coli (MIC = 100 μg/mL), Shigella dysentariae (MIC = 50 μg/mL), Salmonella typhimurium (MIC \u003e 200 μg/mL), Klebsiella pneumonia (MIC = 50 μg/mL), Proteus mirabilis (MIC \u003e 200 μg/mL), Pseudomonas aeuginose (MIC = 200 μg/mL).",
+                                                    "dramp_id":  "DRAMP21629"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.24211019] No hemolytic activity information found.",
+                                                    "stapled_sequence":  "TLKQWS5KGVS5KDLVK",
+                                                    "peptide_name":  "E2EM15W-S3",
+                                                    "mic":  "[Ref.24211019] Gram-positive bacteria: Bacillus subtilis (MIC = 6.25 μg/mL), Staphylococcus aureus (MIC = 6.25 μg/mL), Staphylococcus epidermis (MIC = 100 μg/mL); Gram-negative bacteria: Escherichia coli (MIC = 100 μg/mL), Shigella dysentariae (MIC = 50 μg/mL), Salmonella typhimurium (MIC \u003e 200 μg/mL), Klebsiella pneumonia (MIC = 50 μg/mL), Proteus mirabilis (MIC \u003e 200 μg/mL), Pseudomonas aeuginose (MIC \u003e 200 μg/mL).",
+                                                    "dramp_id":  "DRAMP21630"
+                                                }
+                                            ],
+                            "derivative_count":  3
+                        },
+    "KAAKAAKKAAKAAWK":  {
+                            "original_sequence":  "KAAKAAKKAAKAAWK",
+                            "derivatives":  [
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has \u003c1% hemolysis against human red blood cells at 12.5 μM and \u003c1% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKAS5KKAAKAAWK",
+                                                    "peptide_name":  "Ac-SS-14W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 25 μM), Staphylococcus aureus ATCC 6538p (MIC = 9.4 μM), Staphylococcus epidermis ATCC 12228 (MIC = 75 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 3.1 μM), Shigella dysentariae ATCC 9752 (MIC = 18.8 μM), Salmonella typhimurium ATCC 14028 (MIC \u003e 200 μM), Klebsiella pneumonia ATCC 10031 (MIC = 18.8 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 100 μM).",
+                                                    "dramp_id":  "DRAMP21597"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 22.1% hemolysis against human red blood cells at 12.5 μM and 38.8% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKAS5KKS5AKAS5WK",
+                                                    "peptide_name":  "Ac-DS-14W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 1.6 μM), Staphylococcus aureus ATCC 6538p (MIC = 4.8 μM), Staphylococcus epidermis ATCC 12228 (MIC = 3.1 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 25 μM), Shigella dysentariae ATCC 9752 (MIC = 25 μM), Salmonella typhimurium ATCC 14028 (MIC = 100 μM), Klebsiella pneumonia ATCC 10031 (MIC = 200 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 100 μM).",
+                                                    "dramp_id":  "DRAMP21598"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 25.3% hemolysis against human red blood cells at 12.5 μM and 42.5% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKAS5KKS5AKWS5AK",
+                                                    "peptide_name":  "Ac-DS-12W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 1.6 μM), Staphylococcus aureus ATCC 6538p (MIC = 3.1 μM), Staphylococcus epidermis ATCC 12228 (MIC = 4.8 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 50 μM), Shigella dysentariae ATCC 9752 (MIC = 50 μM), Salmonella typhimurium ATCC 14028 (MIC = 200 μM), Klebsiella pneumonia ATCC 10031 (MIC = 100 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 100 μM).",
+                                                    "dramp_id":  "DRAMP21599"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 28.9% hemolysis against human red blood cells at 12.5 μM and 42.5% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKWS5KKS5AKAS5AK",
+                                                    "peptide_name":  "Ac-DS-3W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 3.1 μM), Staphylococcus aureus ATCC 6538p (MIC = 4.8 μM), Staphylococcus epidermis ATCC 12228 (MIC = 4.8 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 25 μM), Shigella dysentariae ATCC 9752 (MIC = 50 μM), Salmonella typhimurium ATCC 14028 (MIC = 100 μM), Klebsiella pneumonia ATCC 10031 (MIC = 100 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 200 μM).",
+                                                    "dramp_id":  "DRAMP21600"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 22.0% hemolysis against human red blood cells at 12.5 μM and 38.5% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5WKAS5KKS5AKAS5AK",
+                                                    "peptide_name":  "Ac-DS-5W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 1.6 μM), Staphylococcus aureus ATCC 6538p (MIC = 1.6 μM), Staphylococcus epidermis ATCC 12228 (MIC = 1.6 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 18.8 μM), Shigella dysentariae ATCC 9752 (MIC = 25 μM), Salmonella typhimurium ATCC 14028 (MIC = 37.5 μM), Klebsiella pneumonia ATCC 10031 (MIC = 37.5 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 25 μM).",
+                                                    "dramp_id":  "DRAMP21601"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 19.5% hemolysis against human red blood cells at 12.5 μM and 32.6% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKWS5KKS5AKAS5AK",
+                                                    "peptide_name":  "Su-DS-5W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 1.6 μM), Staphylococcus aureus ATCC 6538p (MIC = 1.6 μM), Staphylococcus epidermis ATCC 12228 (MIC = 1.6 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 12.5 μM), Shigella dysentariae ATCC 9752 (MIC = 50 μM), Salmonella typhimurium ATCC 14028 (MIC \u003e 200 μM), Klebsiella pneumonia ATCC 10031 (MIC = 25 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 50 μM).",
+                                                    "dramp_id":  "DRAMP21602"
+                                                },
+                                                {
+                                                    "hemolytic_activity":  "[Ref.26235946] It has 13.5% hemolysis against human red blood cells at 12.5 μM and 25.5% hemolysis at 25 μM.",
+                                                    "stapled_sequence":  "KS5AKWS5KKS5AKAS5AK",
+                                                    "peptide_name":  "H-DS-5W",
+                                                    "mic":  "[Ref.26235946] Gram-positive bacteria: Bacillus subtilis ATCC 6633 (MIC = 1.6 μM), Staphylococcus aureus ATCC 6538p (MIC = 1.6 μM), Staphylococcus epidermis ATCC 12228 (MIC = 1.6 μM); Gram-negative bacteria: Escherichia coli ATCC 25922 (MIC = 3.1 μM), Shigella dysentariae ATCC 9752 (MIC = 12.5 μM), Salmonella typhimurium ATCC 14028 (MIC = 6.3 μM), Klebsiella pneumonia ATCC 10031 (MIC = 12.5 μM), Pseudomonas aeruginosa ATCC 27853 (MIC = 6.3 μM).",
+                                                    "dramp_id":  "DRAMP21603"
+                                                }
+                                            ],
+                            "derivative_count":  7
+                        },
+    "TSFREYWALLSXLAXYXP":  {
+                               "original_sequence":  "TSFREYWALLSXLAXYXP",
+                               "derivatives":  [
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=6.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35893"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=10.8 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35894"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-1",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=15.2 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35895"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=6.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35896"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=10.8 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35897"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-2",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=15.2 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35898"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=6.7 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35899"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=10.8 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35900"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "Not available",
+                                                       "stapled_sequence":  "TSFⓍEYWALLⓍXLAXYXP",
+                                                       "peptide_name":  "SPMI-HIF2-3",
+                                                       "mic":  "Tumor cells: HCT 116 p53+/+ (IC50=15.2 μM); HCT 116 p53-/- (IC50\u003e100 μM)",
+                                                       "dramp_id":  "DRAMP35901"
+                                                   }
+                                               ],
+                               "derivative_count":  9
+                           },
+    "KKKKKKAAFAAWAAFAA":  {
+                              "original_sequence":  "KKKKKKAAFAAWAAFAA",
+                              "derivatives":  [
+                                                  {
+                                                      "hemolytic_activity":  "[Ref.29275987] MHC = 3.8 μM against human red blood cells. Note: Minimum hemolytic concentration (MHC) is the minimum peptide concentration at which red blood cells undergo \u003e 2% hemolysis.",
+                                                      "stapled_sequence":  "KKKKKKAAFS5AWAS5FAA",
+                                                      "peptide_name":  "S-6K-F17",
+                                                      "mic":  "[Ref.29275987] Gram-negative bacteria: E. coli (MIC= 1.0 μM)",
+                                                      "dramp_id":  "DRAMP21482"
+                                                  },
+                                                  {
+                                                      "hemolytic_activity":  "[Ref.29275987] MHC = 15 μM against human red blood cells. Note: Minimum hemolytic concentration (MHC) is the minimum peptide concentration at which red blood cells undergo \u003e 2% hemolysis.",
+                                                      "stapled_sequence":  "KKKKKKAGFS5AWAS5FGA",
+                                                      "peptide_name":  "S-6K-F17-2G",
+                                                      "mic":  "[Ref.29275987] Gram-negative bacteria: E. coli (MIC= 1.6 μM)",
+                                                      "dramp_id":  "DRAMP21483"
+                                                  },
+                                                  {
+                                                      "hemolytic_activity":  "[Ref.29275987] MHC = 128 μM against human red blood cells. Note: Minimum hemolytic concentration (MHC) is the minimum peptide concentration at which red blood cells undergo \u003e 2% hemolysis.",
+                                                      "stapled_sequence":  "KKKKKKAGFS5AWGS5FGA",
+                                                      "peptide_name":  "S-6K-F17-3G",
+                                                      "mic":  "[Ref.29275987] Gram-negative bacteria: E. coli (MIC= 4.2 μM)",
+                                                      "dramp_id":  "DRAMP21484"
+                                                  },
+                                                  {
+                                                      "hemolytic_activity":  "[Ref.29275987] MHC = 587 μM against human red blood cells. Note: Minimum hemolytic concentration (MHC) is the minimum peptide concentration at which red blood cells undergo \u003e 2% hemolysis.",
+                                                      "stapled_sequence":  "KKKKKKNGFS5AWGS5FGA",
+                                                      "peptide_name":  "S-6K-F17-3GN",
+                                                      "mic":  "[Ref.29275987] Gram-negative bacteria: E. coli (MIC= 4.2 μM)",
+                                                      "dramp_id":  "DRAMP21485"
+                                                  }
+                                              ],
+                              "derivative_count":  4
+                          },
+    "GFLSILKKVLPKVMAHMK":  {
+                               "original_sequence":  "GFLSILKKVLPKVMAHMK",
+                               "derivatives":  [
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 18.1 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFLSILKKVLPKS5JAHS5K",
+                                                       "peptide_name":  "MEP-Ns-1",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 0.8 μM), Bacillus subtilis (MIC = 1.1 μM), Staphylococcus aureus (MIC = 10.8 μM); Gram-negative bacteria: E.coli (MIC = 2.5 μM), Pseudomonas aeruginosa (MIC = 77 μM); Fungi: Candida albicans (MIC = 30 μM).",
+                                                       "dramp_id":  "DRAMP21495"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 14.7 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFLSS5LKKS5LPKVJAHJK",
+                                                       "peptide_name":  "MEP-Ns-2",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.5 μM), Bacillus subtilis (MIC = 1.2 μM), Staphylococcus aureus (MIC = 37 μM); Gram-negative bacteria: E.coli (MIC = 7.8 μM), Pseudomonas aeruginosa (MIC ≥ 100 μM); Fungi: Candida albicans (MIC ≥ 100 μM).",
+                                                       "dramp_id":  "DRAMP21496"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 13.9 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFLSS5LKKS5LPKS5JAHS5K",
+                                                       "peptide_name":  "MEP-Ns-3",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC =  1.3 μM), Bacillus subtilis (MIC = 1.2 μM), Staphylococcus aureus (MIC ≥ 100 μM); Gram-negative bacteria: E.coli (MIC = 46.7 μM), Pseudomonas aeruginosa (MIC \u003e 100 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                       "dramp_id":  "DRAMP21497"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 11 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFR8SILKKVR8PKVJAHJK",
+                                                       "peptide_name":  "MEP-Ns-4 cis",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.5 μM), Bacillus subtilis (MIC = 1.3 μM), Staphylococcus aureus (MIC = 37 μM); Gram-negative bacteria: E.coli (MIC = 8.1 μM), Pseudomonas aeruginosa (MIC ≥ 100 μM); Fungi: Candida albicans (MIC ≥ 100 μM).",
+                                                       "dramp_id":  "DRAMP21498"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 20 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFR8SILKKVR8PKVJAHJK",
+                                                       "peptide_name":  "MEP-Ns-4 trans",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 2 μM), Bacillus subtilis (MIC = 1.7 μM), Staphylococcus aureus (MIC = 63 μM); Gram-negative bacteria: E.coli (MIC = 16.3 μM), Pseudomonas aeruginosa (MIC ≥ 100 μM); Fungi: Candida albicans (MIC ≥ 100 μM).",
+                                                       "dramp_id":  "DRAMP21499"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 29 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFLSS5LKKS5LGKS5JAHS5K",
+                                                       "peptide_name":  "MEP-Ns-5",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.5 μM), Bacillus subtilis (MIC = 1.2 μM), Staphylococcus aureus (MIC = 57 μM); Gram-negative bacteria: E.coli (MIC = 5.6 μM), Pseudomonas aeruginosa (MIC \u003e 100 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                       "dramp_id":  "DRAMP21500"
+                                                   },
+                                                   {
+                                                       "hemolytic_activity":  "[Ref.22526241] LC50 = 39.5 μM. Note: LC50 is the concentration of a peptide able to lyse 50% of human erthrocytes in the assay.",
+                                                       "stapled_sequence":  "GFLSS5LKKS5LAKS5JAHS5K",
+                                                       "peptide_name":  "MEP-Ns-6",
+                                                       "mic":  "[Ref.22526241] Gram-positive bacteria: Micrococcus luteus (MIC = 1.5 μM), Bacillus subtilis (MIC = 1.2 μM), Staphylococcus aureus (MIC = 43 μM); Gram-negative bacteria: E.coli (MIC = 5.6 μM), Pseudomonas aeruginosa (MIC \u003e 100 μM); Fungi: Candida albicans (MIC \u003e 100 μM).",
+                                                       "dramp_id":  "DRAMP21501"
+                                                   }
+                                               ],
+                               "derivative_count":  7
+                           },
+    "KFFKKLKKAVKKGFKKFAKV":  {
+                                 "original_sequence":  "KFFKKLKKAVKKGFKKFAKV",
+                                 "derivatives":  [
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 1.9% hemolysis against human red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFⓀKLKⓀAVKKGFKKFAKV",
+                                                         "peptide_name":  "peptide 2 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 8 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 16 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 16 μg/mL)",
+                                                         "dramp_id":  "DRAMP21468"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 1.1% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFⓀKLKKAVⓀKGFKKFAKV",
+                                                         "peptide_name":  "peptide 3 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 8 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 8 μg/mL), Listeria monocytogenes (MIC99.9= 8 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 16 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21469"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 1.3% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKⓀLKKAVKⓀGFKKFAKV",
+                                                         "peptide_name":  "peptide 4 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 8 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 8 μg/mL), Listeria monocytogenes (MIC99.9= 4 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21470"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 5.4% hemolysis against red blood cells at peptide concentration of 320 μg/mL.",
+                                                         "stapled_sequence":  "KFFKKLⓀKAVⓀKGFKKFAKV",
+                                                         "peptide_name":  "peptide 5 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 8 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 8 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 4 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 16 μg/mL)",
+                                                         "dramp_id":  "DRAMP21471"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 2.9% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKⓀAVKⓀGFKKFAKV",
+                                                         "peptide_name":  "peptide 6 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21472"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 2.6% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKⓀAVKKGFⓀKFAKV",
+                                                         "peptide_name":  "peptide 7 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 16 μg/mL), Listeria monocytogenes (MIC99.9= 8 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 16 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21473"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 2.7% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVⓀKGFⓀKFAKV",
+                                                         "peptide_name":  "peptide 8 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21474"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 5.4% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKⓀGFKKFAⓀV",
+                                                         "peptide_name":  "peptide 9 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 8 μg/mL), Listeria monocytogenes (MIC99.9= 4 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 16 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 16 μg/mL)",
+                                                         "dramp_id":  "DRAMP21475"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 2.8% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKⓀGFKⓀFAKV",
+                                                         "peptide_name":  "peptide 10 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21476"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 0.5% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKKGFⓀKFAⓀV",
+                                                         "peptide_name":  "peptide 11 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 8 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 2 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 4 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 16 μg/mL)",
+                                                         "dramp_id":  "DRAMP21477"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 8.7% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKⓀGFKⓀFAKV",
+                                                         "peptide_name":  "peptide 12 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 2 μg/mL), Listeria monocytogenes (MIC99.9= 4 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 4 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 8 μg/mL)",
+                                                         "dramp_id":  "DRAMP21478"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 6.1% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKⓀGFKⓀFAKV",
+                                                         "peptide_name":  "peptide 13 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 4 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21479"
+                                                     },
+                                                     {
+                                                         "hemolytic_activity":  "[Ref.32216308] It has 6.8% hemolysis against red blood cells at peptide concentration of 320 μg/mL",
+                                                         "stapled_sequence":  "KFFKKLKKAVKⓀGFKⓀFAKV",
+                                                         "peptide_name":  "peptide 14 (derived from OH-CM6)",
+                                                         "mic":  "[Ref.32216308] Gram-positive bacteria: Staphylococcus aureus (MIC99.9= 4 μg/mL), methicillin-resistant Staphylococcus aureus (MIC99.9= 4 μg/mL), Listeria monocytogenes (MIC99.9= 4 μg/mL); Gram-negative bacteria: E.coli (MIC99.9= 8 μg/mL), Pseudomonas aeruginosa (MIC99.9= 8 μg/mL), clinically isolated drug-resistant E.coli (MIC99.9= 32 μg/mL)",
+                                                         "dramp_id":  "DRAMP21480"
+                                                     }
+                                                 ],
+                                 "derivative_count":  13
+                             }
+}

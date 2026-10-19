@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+openai>=1.0.0
+anthropic>=0.30.0
+distro>=1.8.0
